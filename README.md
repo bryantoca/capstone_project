@@ -1,6 +1,6 @@
 # Capstone Project
 
-# Capstone Project - Module 2
+# Module 2
 
 - **Original Dataset:** You can access the original dataset [here](/data.csv).
 
