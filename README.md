@@ -6,7 +6,7 @@
 
 # Module 2
 
-- **Literature Review and Data Description:** Literantuer Review and Data Description in pdf version [here](/data.csv).
+- **Literature Review and Data Description:** Literantuer Review and Data Description in pdf version [here](/Pang_module2_LitRev.pdf).
   
 - **Original Dataset:** You can access the original dataset [here](/data.csv).
 
