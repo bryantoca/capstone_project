@@ -2,11 +2,11 @@
 
 # Module 1
 
-- **Abstract:** Abstrat in pdf version [here](/PANG_Assig01_abstract.pdf).
+- **Abstract:** Abstrat in pdf [here](/PANG_Assig01_abstract.pdf).
 
 # Module 2
 
-- **Literature Review and Data Description:** Literantuer Review and Data Description in pdf version [here](/Pang_module2_LitRev.pdf).
+- **Literature Review and Data Description:** Literature Review and Data Description (pdf) [here](/Pang_module2_LitRev.pdf).
   
 - **Original Dataset:** You can access the original dataset [here](/data.csv).
 
