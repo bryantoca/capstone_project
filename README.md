@@ -20,4 +20,4 @@
 
 - **Capstone_module_03.ipynb Notebook:** This notebook contains Initial Results and the Code. You can access it by clicking [here](/Capstone_module_03.ipynb).
 
-- **NBViewer:** To view the notebook in NBViewer, please click [here](https://nbviewer.org/github/bryantoca/capstone_project/blob/59ae45b4d4dfe117d56f179768cb4a20a5cb9d6c/Capstone_module_02.ipynb).
+- **NBViewer:** To view the notebook in NBViewer, please click [here](https://nbviewer.org/github/bryantoca/capstone_project/blob/198cff0fb860009344891394b731a42a99b3a7ba/Capstone_module_03.ipynb).
