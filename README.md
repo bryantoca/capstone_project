@@ -1,10 +1,10 @@
 # Capstone Project
 
-# Module 1
+# Module 1 - Abstract
 
 - **Abstract:** Abstrat in pdf [here](/PANG_Assig01_abstract.pdf).
 
-# Module 2
+# Module 2 - Literature Review and Data Description
 
 - **Literature Review and Data Description:** Literature Review and Data Description (pdf) [here](/Pang_module2_LitRev.pdf).
   
@@ -16,18 +16,18 @@
 
 - **NBViewer:** To view the notebook in NBViewer, please click [here](https://nbviewer.org/github/bryantoca/capstone_project/blob/59ae45b4d4dfe117d56f179768cb4a20a5cb9d6c/Capstone_module_02.ipynb).
 
-# Module 3
+# Module 3 - Initial Results and Code
 
-- **Capstone_module_03.ipynb Notebook:** This notebook contains Initial Results and the Code. You can access it by clicking [here](/Capstone_module_03.ipynb).
+- **Capstone_module_03.ipynb Notebook:** This notebook contains Initial Results and Code. You can access it by clicking [here](/Capstone_module_03.ipynb).
 
 - **NBViewer:** To view the notebook in NBViewer, please click [here](https://nbviewer.org/github/bryantoca/capstone_project/blob/198cff0fb860009344891394b731a42a99b3a7ba/Capstone_module_03.ipynb).
 
 
 - **html file:** To view the notebook in html file please click [here](/Capstone_module_03.html).
 
-# Module 4
+# Module 4 - Final Results and Project Report
 
-- **Capstone_module_04.ipynb Notebook:** This notebook contains Initial Results and the Code. You can access it by clicking [here](/Capstone_module_04.ipynb).
+- **Capstone_module_04.ipynb Notebook:** This notebook contains Final Results and Project Report. You can access it by clicking [here](/Capstone_module_04.ipynb).
 
 - **NBViewer:** To view the notebook in NBViewer, please click [here](https://nbviewer.org/github/bryantoca/capstone_project/blob/198cff0fb860009344891394b731a42a99b3a7ba/Capstone_module_04.ipynb).
 
