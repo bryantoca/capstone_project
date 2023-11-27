@@ -29,11 +29,9 @@
 
 - **Capstone_module_04.ipynb Notebook:** This notebook contains Final Results and Project Report. You can access it by clicking [here](/Capstone_module_04.ipynb).
 
-- **NBViewer:** To view the notebook in NBViewer, please click [here]
-(https://nbviewer.org/github/bryantoca/capstone_project/blob/c9719e3c138c665436a36593995c58daa19e2504/Capstone_module_04.ipynb)
+- **NBViewer:** To view the notebook in NBViewer, please click [here](https://nbviewer.org/github/bryantoca/capstone_project/blob/c9719e3c138c665436a36593995c58daa19e2504/Capstone_module_04.ipynb)
 
-- **NBViewer:** To view the Final Results in NBViewer, please click [here]
-(https://nbviewer.org/github/bryantoca/capstone_project/blob/c9719e3c138c665436a36593995c58daa19e2504/Capstone_module_04.ipynb#final_results)
+- **NBViewer:** To view the Final Results in NBViewer, please click [here](https://nbviewer.org/github/bryantoca/capstone_project/blob/c9719e3c138c665436a36593995c58daa19e2504/Capstone_module_04.ipynb#final_results)
 
 
 - **html file:** To view the notebook in html file please click [here](/Capstone_module_04.html).
