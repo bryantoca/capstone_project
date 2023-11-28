@@ -27,6 +27,8 @@
 
 # Module 4 - Final Results and Project Report
 
+- **Final Results and Project Report:** Pdf file [here](/PANG_FinalReport.pdf).
+
 - **Capstone_module_04.ipynb Notebook:** This notebook contains Final Results and Project Report. You can access it by clicking [here](/Capstone_module_04.ipynb).
 
 - **NBViewer:** To view the notebook in NBViewer, please click [here](https://nbviewer.org/github/bryantoca/capstone_project/blob/c9719e3c138c665436a36593995c58daa19e2504/Capstone_module_04.ipynb)
