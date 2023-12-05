@@ -42,5 +42,5 @@
 
 - **Presentation Slide:** Pdf file [here](/Pang_slide.pdf).
 
-- **Presentation Slide:** pptx file [here](/Pang_slide.pptx).
+- **Presentation Slide:** Microsoft PowerPoint file [here](/Pang_slide.pptx).
 
