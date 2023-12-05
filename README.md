@@ -37,3 +37,10 @@
 
 
 - **html file:** To view the notebook in html file please click [here](/Capstone_module_04.html).
+
+# Module 5 - Project Presentation
+
+- **Presentation Slide:** Pdf file [here](/PANG_FinalReport.pdf).
+
+- **Presentation Slide:** pptx file [here](/Capstone_module_04.ipynb).
+
