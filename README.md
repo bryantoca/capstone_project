@@ -40,7 +40,7 @@
 
 # Module 5 - Project Presentation
 
-- **Presentation Slide:** Pdf file [here](/PANG_FinalReport.pdf).
+- **Presentation Slide:** Pdf file [here](/Pang_slide.pdf).
 
-- **Presentation Slide:** pptx file [here](/Capstone_module_04.ipynb).
+- **Presentation Slide:** pptx file [here](/Pang_slide.pptx).
 
